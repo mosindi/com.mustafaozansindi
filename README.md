@@ -7,7 +7,6 @@ dockerized.
 
 Theme Readme
 
-<a href="https://themes.3rdwavemedia.com/bootstrap-templates/resume/devresume-free-bootstrap-4-resume-cv-template-for-developers/" target="_blank"><img src="https://themes.3rdwavemedia.com/wp-content/uploads/2019/04/Bootstrap-Resume-CV-Template-DevResume-Promo.jpg" alt="DevResume - Bootstrap 4 Resume/CV Template for Developers" /></a>
 
 ## Theme Details & Demo
 
